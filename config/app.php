@@ -16,8 +16,13 @@ return [
     |
     */
 
+<<<<<<< HEAD
     'name' => env('APP_NAME', 'Heimdall'),
     'version' => '2.6.3',
+=======
+    'name' => env('APP_NAME', 'SooperOS'),
+    'version' => '2.6.1',
+>>>>>>> c5387029 (added docker-compose, updated config/app.php & database/seeders/SettingsSeeder.php files)
 
     /*
     |--------------------------------------------------------------------------

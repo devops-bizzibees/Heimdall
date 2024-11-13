@@ -233,7 +233,7 @@ class SettingsSeeder extends Seeder
             $support->value =
                 '<a rel="noopener" target="_blank" href="https://discord.gg/CCjHKn4">Discord</a>'.
                 ' | '.
-                '<a rel="noopener" target="_blank" href="https://github.com/linuxserver/Heimdall">Github</a>'.
+                '<a rel="noopener" target="_blank" href="https://github.com/linuxserver/SooperOS">Github</a>'.
                 ' | '.
                 '<a rel="noopener" target="_blank" href="https://blog.heimdall.site/">Blog</a>';
             $support->save();
@@ -246,7 +246,7 @@ class SettingsSeeder extends Seeder
             $setting->label = 'app.settings.support';
             $setting->value = '<a rel="noopener" target="_blank" href="https://discord.gg/CCjHKn4">Discord</a>'.
                 ' | '.
-                '<a rel="noopener" target="_blank" href="https://github.com/linuxserver/Heimdall">Github</a>'.
+                '<a rel="noopener" target="_blank" href="https://github.com/linuxserver/SooperOS">Github</a>'.
                 ' | '.
                 '<a rel="noopener" target="_blank" href="https://blog.heimdall.site/">Blog</a>';
             $setting->system = true;
